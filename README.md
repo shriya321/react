@@ -114,7 +114,7 @@ The UserProfile component is not using that props data in itself. Now consider a
 
  
 
-Here comes React Context API into the Picture. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree. Context provides data that can be considered global for a tree of React components without explicitly passing data to every component of a nested tree. 
+Here comes <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">React</a> Context API into the Picture. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree. Context provides data that can be considered global for a tree of React components without explicitly passing data to every component of a nested tree. 
 
  
 
