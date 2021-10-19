@@ -1,6 +1,6 @@
 # react
 # How to use React Context API with Functional | Class Components
-Consider a case where some data needs to be accessed by many components at different nested levels. In using React, we have to pass data as props to the component tree so that whichever component needs the data can access it. By doing this, we are passing data from parent components to nested child components.
+Consider a case where some data needs to be accessed by many components at different nested levels. In using <a href="https://reactjs.org/">React</a>, we have to pass data as props to the component tree so that whichever component needs the data can access it. By doing this, we are passing data from parent components to nested child components.
 
  
 
